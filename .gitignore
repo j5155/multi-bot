@@ -130,3 +130,5 @@ dmypy.json
 
 # Hide config (i.e. token)
 config.yml
+# FFMPEG is wayyy too big
+ffmpeg/

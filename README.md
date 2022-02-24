@@ -1,6 +1,6 @@
 # multi-bot
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) ![GitHub](https://img.shields.io/github/license/j5155/multi-bot)
 
 *Because QOTD bot just wasn't good enough.*
 
